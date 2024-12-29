@@ -3,8 +3,8 @@
 @author: PC
 Update Time: 2024-11-24
 """
-from Depend.YTube import YTube
-from Depend.ArgumentParser import AP
+from package.YTube import YTube
+from package.ArgumentParser import AP
 
 class Entry:
     def __init__(self):

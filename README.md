@@ -53,7 +53,7 @@ python Entry.py -h
 ```py
 python Entry.py -t m -p ./Downloads/ -u https://www.youtube.com/watch?v=JsHqEpWQl-8
 ```
-<img src="https://github.com/Junwu0615/Downloads-YouTube-To-MP3-4/blob/main/Sample/music.gif">
+<img src="https://github.com/Junwu0615/Downloads-YouTube-To-MP3-4/blob/main/sample/music.gif">
 
 - `-t` m
 - `-P` ./Downloads/
@@ -63,7 +63,7 @@ python Entry.py -t m -p ./Downloads/ -u https://www.youtube.com/watch?v=JsHqEpWQ
 ```py
 python Entry.py -t v -p ./Downloads/ -u https://www.youtube.com/watch?v=JsHqEpWQl-8
 ```
-<img src="https://github.com/Junwu0615/Downloads-YouTube-To-MP3-4/blob/main/Sample/video.gif">
+<img src="https://github.com/Junwu0615/Downloads-YouTube-To-MP3-4/blob/main/sample/video.gif">
 
 - `-t` v
 - `-P` ./Downloads/

@@ -17,8 +17,8 @@ class AP:
                            default="m", type=str)
 
         parse.add_argument("-p", "--path",
-                           help="give a path | ex: './Downloads/'",
-                           default="./Downloads/", type=str)
+                           help="give a path | ex: './downloads/'",
+                           default="./downloads/", type=str)
 
         parse.add_argument("-u", "--url",
                            help="give a YouTube URL | ex: 'https://...'",
@@ -30,4 +30,3 @@ class AP:
         args = AP.parse_args()
         self.obj.type = args.type
         self.obj.path = args.path
-        self.obj.url = args.url
